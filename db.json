@@ -1,0 +1,18 @@
+{
+  "customers": [
+    {
+      "name": "vija",
+      "phone": "7276621071",
+      "address": "pune",
+      "membership": "Platinum",
+      "id": 1
+    },
+    {
+      "name": "ram",
+      "phone": "9568965656",
+      "address": "pune",
+      "membership": "Pro",
+      "id": 2
+    }
+  ]
+}
